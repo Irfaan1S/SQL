@@ -1,0 +1,8 @@
+CREATE TABLE temp1 (
+       id INT UNIQUE
+);
+
+INSERT INTO temp1 VALUES (101);
+INSERT INTO temp1 VALUES (101);
+
+SELECT * FROM temp1;
