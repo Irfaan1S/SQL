@@ -1,0 +1,7 @@
+CREATE TABLE temp1 (
+       id INT,
+       name VARCHAR(50),
+       age INT,
+       city VARCHAR(20),
+       PRIMARY KEY(id)
+);
