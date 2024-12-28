@@ -1,0 +1,5 @@
+INSERT INTO table_name
+(rollno,name)
+VALUES
+(101,"Karan")
+(102,"Arjun")
