@@ -1,0 +1,1 @@
+INSERT INTO Student VALUES (104,"Shyam") -- If you know the order of columns,enter in same order
