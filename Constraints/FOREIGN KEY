@@ -1,0 +1,5 @@
+CREATE TABLE temp(
+
+    cust_id int,
+    FOREIGN KEY (cust_id) references Customer (id)
+);
