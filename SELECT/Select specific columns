@@ -1,0 +1,1 @@
+SELECT name,marks FROM student;  --To select and view specific columns from a table
