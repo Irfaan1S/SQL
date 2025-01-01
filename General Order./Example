@@ -1,0 +1,6 @@
+SELECT city
+FROM student 
+WHERE grade = "A"     -- WHERE wali Grade A ki condition saari ki saari rows par laga
+GROUP BY city
+HAVING MAX(marks) > 90   -- HAVING wali condition Groups par laga
+ORDER BY city ASC;   -- Try DESC
