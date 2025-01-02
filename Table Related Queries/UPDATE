@@ -1,0 +1,1 @@
+UPDATE student SET grade = "O" WHERE grade = "A";
