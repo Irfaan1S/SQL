@@ -1,0 +1,1 @@
+UPDATE student SET marks = marks + 1; -- Suppose 1 MCQ given was wrong so update everyone's marks by 1
