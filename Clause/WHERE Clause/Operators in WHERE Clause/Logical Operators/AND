@@ -1,0 +1,2 @@
+SELECT * FROM student WHERE marks > 90 AND city="Mumbai" ;
+--Both Conditions to be true

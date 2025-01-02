@@ -1,0 +1,1 @@
+SELECT grade, COUNT(rollno) FROM student GROUP BY grade ORDER BY grade;
