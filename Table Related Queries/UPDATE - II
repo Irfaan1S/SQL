@@ -1,0 +1,2 @@
+UPDATE student SET marks = 82 WHERE rollno = 105;
+UPDATE student SET grade = "B"  WHERE marks BETWEEN 80 AND 90;
