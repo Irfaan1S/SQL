@@ -1,1 +1,0 @@
-SELECT city, COUNT(rollno) FROM student GROUP BY city;

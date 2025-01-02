@@ -1,1 +1,0 @@
-SELECT COUNT(rollno),city FROM student GROUP BY city HAVING MAX(marks) > 90;

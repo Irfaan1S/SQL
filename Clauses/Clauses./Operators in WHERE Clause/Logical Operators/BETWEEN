@@ -1,1 +1,0 @@
-SELECT * FROM student WHERE marks BETWEEN 80 AND 90;

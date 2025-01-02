@@ -1,1 +1,0 @@
-SELECT * FROM student ORDER BY marks DESC LIMIT 3;  -- Top three students marks

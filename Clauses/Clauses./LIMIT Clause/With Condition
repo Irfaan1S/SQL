@@ -1,1 +1,0 @@
-SELECT * FROM student WHERE marks > 75 LIMIT 3; -- Try without using limit
