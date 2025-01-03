@@ -1,0 +1,4 @@
+SELECT name FROM employee 
+UNION 
+SELECT name FROM employee;
+-- Try with two different tables also
