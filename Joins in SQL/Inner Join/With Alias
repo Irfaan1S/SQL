@@ -1,0 +1,4 @@
+SELECT * 
+FROM student as s
+INNER JOIN course as c
+ON s.id = c.id;
