@@ -1,0 +1,7 @@
+SELECT rollno
+FROM student 
+WHERE rollno % 2 = 0;
+
+SELECT name,rollno
+FROM student 
+WHERE rollno IN (102,104,106);
