@@ -1,0 +1,1 @@
+SELECT MAX(marks) FROM (SELECT * FROM student WHERE city = "Delhi") AS temp;
