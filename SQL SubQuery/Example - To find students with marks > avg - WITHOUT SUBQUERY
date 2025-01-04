@@ -26,3 +26,5 @@ FROM student;
 SELECT name 
 FROM student
 WHERE marks > 87.6667;
+-- Not feasible as if a new data gets added the avg value will change so it is not dynamic -- So using fixed value is not feasible
+-- So we use SQL SubQuery -- See next file -SQL SubQuery - imp
