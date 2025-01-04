@@ -1,0 +1,3 @@
+SELECT rollno,name
+FROM student 
+WHERE rollno % 2 = 0;
